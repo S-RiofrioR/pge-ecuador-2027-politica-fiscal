@@ -1,0 +1,14 @@
+categoria,concepto,monto_usd_m,sumable
+total_fiscal,Gasto fiscal total sobre la línea,38838.43,FALSE
+grupo_economico,Gasto en personal,10057,TRUE
+grupo_economico,Intereses de la deuda pública,5097.85,TRUE
+grupo_economico,Amortización estimada de deuda,11374.66,FALSE
+sectorial_consigna,"Educación inicial, básica y bachillerato",6681.29,FALSE
+sectorial_consigna,Salud,5855.94,FALSE
+sectorial_consigna,Gobiernos autónomos descentralizados,4825.15,FALSE
+sectorial_consigna,Plan Anual de Inversiones - PAI,3000,FALSE
+sectorial_consigna,Universidades y escuelas politécnicas,1443.35,FALSE
+subsidios,Subsidio a combustibles,2593.59,FALSE
+subsidios,Subsidio sector eléctrico,1154.2,FALSE
+subsidios,Transferencias Seguridad Social IESS/ISSFA/ISSPOL,4446.82,FALSE
+subsidios,Bonos y transferencias MTDH,1441.14,FALSE

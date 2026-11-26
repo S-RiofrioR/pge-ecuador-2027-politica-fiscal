@@ -1,0 +1,14 @@
+categoria,concepto,monto_usd_m,sumable,pct_pib,pct_gasto_fiscal
+total_fiscal,Gasto fiscal total sobre la línea,38838.43,FALSE,27.212152244553817,100
+grupo_economico,Gasto en personal,10057,TRUE,7.046438672301576,25.894455568878556
+grupo_economico,Intereses de la deuda pública,5097.85,TRUE,3.5718094248376846,13.125788040350756
+grupo_economico,Amortización estimada de deuda,11374.66,FALSE,7.969657363854216,29.28712617889034
+sectorial_consigna,"Educación inicial, básica y bachillerato",6681.29,FALSE,4.681246916263477,17.20278085391196
+sectorial_consigna,Salud,5855.94,FALSE,4.102965305625703,15.077694953168805
+sectorial_consigna,Gobiernos autónomos descentralizados,4825.15,FALSE,3.3807421258482595,12.423648432750758
+sectorial_consigna,Plan Anual de Inversiones - PAI,3000,FALSE,2.10195048393206,7.724308114411421
+sectorial_consigna,Universidades y escuelas politécnicas,1443.35,FALSE,1.0112834103277795,3.7162933723119083
+subsidios,Subsidio a combustibles,2593.59,FALSE,1.8171992518737838,6.677896094152107
+subsidios,Subsidio sector eléctrico,1154.2,FALSE,0.8086904161847945,2.9717988085512212
+subsidios,Transferencias Seguridad Social IESS/ISSFA/ISSPOL,4446.82,FALSE,3.115665150319588,11.44953593644233
+subsidios,Bonos y transferencias MTDH,1441.14,FALSE,1.009734973471283,3.7106031320009594

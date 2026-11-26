@@ -1,0 +1,72 @@
+RESUMEN DE RESULTADOS - COMPONENTE PRÁCTICO 2 DE POLÍTICA FISCAL
+Presupuesto General del Estado (PGE) del Ecuador 2027
+Generado: 2026-11-25 21:14:49
+==========================================================================================
+
+1. INDICADORES FISCALES (millones de USD salvo indicación)
+------------------------------------------------------------------------------------------
+ 1. [Obli] Crecimiento del presupuesto: 8,56 %   <(PGE 2027 / PGE 2026 - 1) × 100>
+ 2. [Obli] Presión tributaria del PGE: 14,51 %   <Ingresos tributarios / PIB 2027 × 100>
+ 3. [Obli] Déficit fiscal respecto al PIB: 3,09 %   <Déficit global / PIB 2027 × 100>
+ 4. [Obli] Dependencia del financiamiento: 31,38 %   <Financiamiento / PGE 2027 × 100>
+ 5. [Obli] Participación del IVA: 48,89 %   <IVA / Ingresos tributarios × 100>
+ 6. [Obli] Participación del gasto en personal: 25,89 %   <Gasto en personal / Gasto fiscal total × 100>
+ 7. [Obli] Carga de intereses: 14,81 %   <Intereses / Ingresos sin financiamiento × 100>
+ 8. [Obli] Participación de la inversión pública: 5,97 %   <PAI / PGE 2027 × 100>
+ 9. [Comp] Participación de impuestos indirectos: 64,47 %   <Impuestos indirectos / Ingresos tributarios × 100>
+10. [Comp] Participación de impuestos directos: 34,10 %   <Impuestos directos / Ingresos tributarios × 100>
+11. [Comp] Razón impuestos indirectos / directos: 1,89 veces   <Impuestos indirectos / Impuestos directos>
+12. [Comp] Déficit de cuenta permanente (Art. 286 CRE): -1.033,18 M USD   <Ingresos permanentes - Gastos permanentes>
+13. [Comp] Educación (incl. universidades) como % del PIB: 5,69 %   <(Educación básica + Universidades) / PIB 2027 × 100>
+14. [Comp] Salud como % del PIB: 4,10 %   <Salud / PIB 2027 × 100>
+15. [Comp] Educación básica y bachillerato (sin universidades) como % del PIB: 4,68 %   <Educación básica / PIB 2027 × 100>
+16. [Sens] Presión tributaria (solo 6 tributos principales): 14,30 %   <Suma de 6 tributos / PIB 2027 × 100>
+17. [Sens] Carga de intereses (ingresos corrientes + capital): 14,80 %   <Intereses / (Ingresos corrientes + capital) × 100>
+
+2. BALANCES, REGLA FISCAL Y METAS
+------------------------------------------------------------------------------------------
+PGE 2026: 46.255,57 | PGE 2027: 50.213,09 M USD
+PIB nominal 2026: 139.046,60 | PIB nominal 2027: 142.724,58 M USD
+Déficit global 2027: -4.411,85 M USD (3,09% del PIB)
+Superávit primario: 686,00 - Intereses: 5.097,85 = -4.411,85 M USD
+Ingresos sobre la línea: 34.426,58 | Egresos sobre la línea: 38.838,43
+Regla fiscal (Art. 286 CRE) - cuenta permanente: 24.863,05 - 25.896,23 = -1.033,18 M USD
+Regla fiscal - cuenta no permanente: 9.563,52 - 12.942,20 = -3.378,68 M USD
+Impuestos: indirectos 13.348,00 M (64,47%), directos 7.060,00 M (34,10%), mixtos 295,00 M (1,42%)
+Educación (incl. universidades): 8.124,64 M = 5,69% del PIB (meta 6%; brecha -0,31 p. p.)
+Salud: 5.855,94 M = 4,10% del PIB (meta 4%; brecha +0,10 p. p.)
+
+3. SIMULACIÓN FISCAL
+------------------------------------------------------------------------------------------
+Escenario 1: Presupuestado
+   PIB nominal: 142.724,58 M USD
+   Efecto tributario: 0,00 | Efecto petrolero: 0,00 | Medidas ingreso: 0,00 | Medidas gasto: 0,00
+   Balance global: -4.411,85 M USD  (déficit/PIB = 3,09%)
+   Brecha generada: 0,00 M | cubierta: 0,00 M | cobertura: —%
+
+Escenario 2: Choque simultáneo
+   PIB nominal: 140.635,93 M USD
+   Efecto tributario: -2.070,30 | Efecto petrolero: -1.040,00 | Medidas ingreso: 0,00 | Medidas gasto: 0,00
+   Balance global: -7.522,15 M USD  (déficit/PIB = 5,35%)
+   Brecha generada: 3.110,30 M | cubierta: 0,00 M | cobertura: 0,00%
+
+Escenario 3: Con paquete de ajuste
+   PIB nominal: 140.635,93 M USD
+   Efecto tributario: -2.070,30 | Efecto petrolero: -1.040,00 | Medidas ingreso: +1.161,35 | Medidas gasto: +768,05
+   Balance global: -5.592,75 M USD  (déficit/PIB = 3,98%)
+   Brecha generada: 3.110,30 M | cubierta: 1.929,40 M | cobertura: 62,03%
+
+Medidas del Escenario 3:
+  I1 | Ingreso | Recuperación de cartera vencida y control de evasión (SRI): base 18.632,70 x 2,5% = 465,82 M USD
+  I2 | Ingreso | Revisión de gastos tributarios regresivos: base 18.632,70 x 1,5% = 279,49 M USD
+  I3 | Ingreso | Eficiencia y monetización en empresas públicas: base 4.160,44 x 10,0% = 416,04 M USD
+  G1 | Gasto | Focalización gradual de subsidios a combustibles: base 2.593,59 x 15,0% = 389,04 M USD
+  G2 | Gasto | Recorte en bienes y servicios corrientes no esenciales: base 663,38 x 20,0% = 132,68 M USD
+  G3 | Gasto | Eficiencia en compras públicas y reperfilamiento financiero: base 4.105,63 x 6,0% = 246,34 M USD
+  Educación: recorte 0,0% | Salud: recorte 0,0%
+
+4. PARÁMETROS PENDIENTES DE VERIFICACIÓN CONTRA PDF OFICIAL
+------------------------------------------------------------------------------------------
+  - Intereses de la deuda 2027 (5.097,85 M USD) y 2026 (4.469,00 M USD)
+  - Gasto en personal (10.057,00 M USD) y amortización estimada (11.374,66 M USD)
+  - Sensibilidad neta del crudo (65 M USD por USD 1)

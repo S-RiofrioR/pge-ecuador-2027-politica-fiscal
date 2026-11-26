@@ -1,0 +1,27 @@
+PROYECTO: Componente Práctico 2 de Política Fiscal
+TEMA: Presupuesto General del Estado (PGE) del Ecuador 2027
+Generado: 2026-11-25 20:50
+==============================================================================
+
+ESTRUCTURA DE CARPETAS
+------------------------------------------------------------------------------
+00_FUENTES_OFICIALES/       PDF oficiales (MDEP, Registro Oficial, anexos) usados para
+                            verificar los parámetros marcados # VERIFICAR_PDF.
+01_DATOS/raw/               Los 5 archivos .csv originales construidos por el Script 1.
+01_DATOS/processed/         Tablas procesadas, indicadores y simulación (.csv y .rds).
+02_SCRIPTS/                 Todos los scripts .R (01, 02, 03 y 99_ejecutar_todo.R).
+03_EXPORT/tablas_apa7/      Tablas APA 7 en .html (gt) y .csv.
+03_EXPORT/graficos_informe/ Figuras PNG 300 DPI sin título interno (APA 7 estricto).
+03_EXPORT/graficos_exposicion/ Figuras PNG 300 DPI con título y subtítulo (diapositivas).
+03_EXPORT/reportes/         Resumen de resultados en texto plano para redacción.
+04_INFORME_Y_EXPOSICION/    Informe final (Word/PDF) y presentación oral.
+
+FLUJO DE TRABAJO
+------------------------------------------------------------------------------
+1. Ejecutar 00_setup_proyecto.R (una vez).
+2. Copiar los scripts 01, 02, 03 y 99 dentro de 02_SCRIPTS/.
+3. Editar datos en 01_construccion_datos.R (o supuestos del paquete fiscal en
+   02_indicadores_y_simulacion.R, bloque 'SUPUESTOS EDITABLES').
+4. Ejecutar 99_ejecutar_todo.R: regenera CSV, tablas, resumen y gráficos.
+
+NORMAS: rutas con '/' y file.path(); archivos .R en UTF-8; source(..., encoding = 'UTF-8').

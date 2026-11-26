@@ -1,0 +1,13 @@
+indicador,unidad,valor_2026,valor_2027,etiqueta,tipo_var,var_abs,var_rel
+pge_total,Millones USD,46255.57,50213.09,Presupuesto General del Estado (PGE),nivel,3957.519999999997,8.55576960785478
+pge_pct_pib,%,33.266235923783825,35.181809608408024,PGE como % del PIB,tasa,1.9155736846241993,NA
+pib_nominal,Millones USD,139046.6,142724.58,PIB nominal,nivel,3677.9799999999814,2.6451419883693594
+crecimiento_real_pib,%,1.8,2.5,Crecimiento real del PIB,tasa,0.7,NA
+deflactor_pib,%,2.1,2.3,Deflactor del PIB,tasa,0.19999999999999973,NA
+inflacion_promedio,%,3.2,2.2,Inflación promedio,tasa,-1,NA
+produccion_petrolera,Millones de barriles,165.5,165.6,Producción petrolera,nivel,0.09999999999999432,0.06042296072508169
+precio_barril_crudo,USD/barril,53.5,66,Precio del barril de crudo,nivel,12.5,23.364485981308402
+deficit_global,Millones USD,5413.8,4411.85,Déficit global,nivel,-1001.9499999999998,-18.50733311167756
+deficit_pct_pib,%,3.8935148360333875,3.0911634141785536,Déficit global como % del PIB,tasa,-0.802351421854834,NA
+superavit_primario,Millones USD,NA,686,Superávit primario,nivel,NA,NA
+intereses_deuda,Millones USD,4469,5097.85,Intereses de la deuda,nivel,628.8500000000004,14.071380622063101

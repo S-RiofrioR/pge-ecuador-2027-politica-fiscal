@@ -1,0 +1,15 @@
+bloque,concepto,monto_usd_m,participacion_pct
+naturaleza,Ingresos corrientes,24863.05,49.52
+naturaleza,Ingresos de capital,9593.52,19.11
+naturaleza,Financiamiento,15756.52,31.38
+regla_fiscal,Ingresos permanentes,24863.05,NA
+regla_fiscal,Gastos permanentes,25896.23,NA
+regla_fiscal,Ingresos no permanentes,9563.52,NA
+regla_fiscal,Gastos no permanentes,12942.2,NA
+subrubro_corriente,Impuestos totales,20703,NA
+subrubro_corriente,Tasas y contribuciones,2341.92,NA
+subrubro_corriente,Rentas de inversiones y multas,922.83,NA
+subrubro_corriente,Transferencias corrientes,815.56,NA
+subrubro_corriente,Venta de bienes/servicios y otros,80.13,NA
+referencia,Ingresos sobre la línea,34426.58,NA
+referencia,Egresos sobre la línea,38838.43,NA

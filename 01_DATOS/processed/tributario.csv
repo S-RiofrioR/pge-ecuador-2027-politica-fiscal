@@ -1,0 +1,8 @@
+impuesto,tipo_impuesto,monto_usd_m,tarifa_vigente,hecho_generador,participacion_pct
+IVA,Indirecto,10121,15% general / 0% canasta básica,Transferencia de bienes y prestación de servicios gravados,48.88663478722891
+Impuesto a la Renta,Directo,6786,25% sociedades; 0%-37% personas naturales,Obtención de rentas gravadas durante el ejercicio fiscal,32.77785828140849
+Aranceles,Indirecto,1641,Ad valorem y mixto según partida,Importación de mercancías,7.926387480075352
+ICE,Indirecto,895,Específica y ad valorem,Producción/importación y consumo de bienes y servicios gravados,4.323044969328117
+ISD,Indirecto,691,5% general; tarifas diferenciadas productivas,Transferencia o envío de divisas al exterior,3.3376805293918754
+Otros tributos,Mixto,295,Varias - ajuste al total tributario oficial,Varios (ajuste al total tributario oficial),1.4249142636332899
+Impuesto a vehículos,Directo,274,Tabla progresiva según avalúo,Propiedad de vehículos motorizados,1.323479688933971

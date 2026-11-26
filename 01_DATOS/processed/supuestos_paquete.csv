@@ -1,0 +1,7 @@
+id,tipo,medida,base_descripcion,base_monto,supuesto_pct,efecto_usd_m
+I1,Ingreso,Recuperación de cartera vencida y control de evasión (SRI),Ingresos tributarios en escenario de choque,18632.7,2.5,465.8175
+I2,Ingreso,Revisión de gastos tributarios regresivos,Ingresos tributarios en escenario de choque,18632.7,1.5,279.49050000000005
+I3,Ingreso,Eficiencia y monetización en empresas públicas,Ingresos corrientes no tributarios,4160.4400000000005,10,416.0440000000001
+G1,Gasto,Focalización gradual de subsidios a combustibles,Subsidio a combustibles,2593.59,15,389.03850000000006
+G2,Gasto,Recorte en bienes y servicios corrientes no esenciales,Residual de bienes y servicios (excluye parte de Educación y Salud),663.3779999999996,20,132.67559999999992
+G3,Gasto,Eficiencia en compras públicas y reperfilamiento financiero,PAI + residual de bienes y servicios,4105.629999999999,6,246.33779999999996

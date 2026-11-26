@@ -1,0 +1,6 @@
+parametro,unidad,presupuestado,estres
+precio_petroleo,USD/barril,66,50
+crecimiento_real_pib,%,2.5,1
+deflactor_pib,%,2.3,2.3
+cumplimiento_meta_tributaria,%,100,90
+sensibilidad_neta_crudo_1usd,Millones USD por USD 1,65,65

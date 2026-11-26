@@ -1,0 +1,4 @@
+escenario,precio_petroleo,crecimiento_real,cumplimiento_trib,pib_nominal,delta_tributario,delta_petrolero,medidas_ingreso,medidas_gasto,balance_global,brecha_fiscal,brecha_cubierta,deficit_pct_pib,cobertura_pct
+Escenario 1: Presupuestado,66,2.5,100,142724.58,0,0,0,0,-4411.85,0,0,3.0911634141785536,NA
+Escenario 2: Choque simultáneo,50,1,90,140635.9276097561,-2070.2999999999997,-1040,0,0,-7522.15,3110.2999999999997,0,5.3486688130453075,0
+Escenario 3: Con paquete de ajuste,50,1,90,140635.9276097561,-2070.2999999999997,-1040,1161.352,768.0518999999999,-5592.7461,3110.2999999999997,1929.4039,3.976754869864437,62.032726746616085

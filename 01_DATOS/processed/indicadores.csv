@@ -1,0 +1,18 @@
+n,indicador,formula,numerador,denominador,valor,unidad,grupo
+1,Crecimiento del presupuesto,(PGE 2027 / PGE 2026 - 1) × 100,50213.09,46255.57,8.55576960785478,%,Obligatorio
+2,Presión tributaria del PGE,Ingresos tributarios / PIB 2027 × 100,20703,142724.58,14.505560289615147,%,Obligatorio
+3,Déficit fiscal respecto al PIB,Déficit global / PIB 2027 × 100,4411.85,142724.58,3.0911634141785536,%,Obligatorio
+4,Dependencia del financiamiento,Financiamiento / PGE 2027 × 100,15756.52,50213.09,31.37930766658654,%,Obligatorio
+5,Participación del IVA,IVA / Ingresos tributarios × 100,10121,20703,48.88663478722891,%,Obligatorio
+6,Participación del gasto en personal,Gasto en personal / Gasto fiscal total × 100,10057,38838.43,25.894455568878556,%,Obligatorio
+7,Carga de intereses,Intereses / Ingresos sin financiamiento × 100,5097.85,34426.58,14.807889717770397,%,Obligatorio
+8,Participación de la inversión pública,PAI / PGE 2027 × 100,3000,50213.09,5.974537715165508,%,Obligatorio
+9,Participación de impuestos indirectos,Impuestos indirectos / Ingresos tributarios × 100,13348,20703,64.47374776602425,%,Complementario
+10,Participación de impuestos directos,Impuestos directos / Ingresos tributarios × 100,7060,20703,34.10133797034246,%,Complementario
+11,Razón impuestos indirectos / directos,Impuestos indirectos / Impuestos directos,13348,7060,1.8906515580736545,veces,Complementario
+12,Déficit de cuenta permanente (Art. 286 CRE),Ingresos permanentes - Gastos permanentes,24863.05,25896.23,-1033.1800000000003,M USD,Complementario
+13,Educación (incl. universidades) como % del PIB,(Educación básica + Universidades) / PIB 2027 × 100,8124.639999999999,142724.58,5.692530326591258,%,Complementario
+14,Salud como % del PIB,Salud / PIB 2027 × 100,5855.94,142724.58,4.102965305625703,%,Complementario
+15,Educación básica y bachillerato (sin universidades) como % del PIB,Educación básica / PIB 2027 × 100,6681.29,142724.58,4.681246916263477,%,Complementario
+16,Presión tributaria (solo 6 tributos principales),Suma de 6 tributos / PIB 2027 × 100,20408,142724.58,14.298868492028493,%,Sensibilidad
+17,Carga de intereses (ingresos corrientes + capital),Intereses / (Ingresos corrientes + capital) × 100,5097.85,34456.57,14.795001359682638,%,Sensibilidad
